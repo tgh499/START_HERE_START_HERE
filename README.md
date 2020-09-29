@@ -1,6 +1,6 @@
 # START_HERE_START_HERE
 
-1. Repo corresponding to published paper on ACM.
+1. ## Repo corresponding to published paper on ACM, 1D Convolution. ISOLET dataset. 
     
     **Idea:** Reorganize features of non-image data to introduce image-like feature structure. Also contains code for entropy measurement to estimate presence of local structures.
     
@@ -11,13 +11,15 @@
     
     **Link to repo:** https://github.com/tgh499/isolet_1D_convolution_updated
 
-2.  Same feature embedding mthod. But with the text based 20Newsgroups dataset. Instead of tf-idf representation, a novel word-embedding (GloVe) based method was introduced and used.
+2.  ## Same paper as 1. 20Newsgroups. 1D Convolution.
+
+    **Idea:** Same feature embedding mthod as 1. But with the text based 20Newsgroups dataset. Instead of tf-idf representation, a novel word-embedding (GloVe) based method to represent text was introduced and used.
 
     **Dataset:** 20Newsgroups. Transformed using 300D GloVe vectors generated from Wikipedia.
 
     **Link to repo:** https://github.com/tgh499/20_newsgroups_1d_convolution
 
-3. Contextualized Spelling correction. 
+3. ## Contextualized Spelling correction. 
 
     **Idea:** catching general typing mistakes is not that challenging. But correcting, ***there days*** to ***these days*** is much harder. There are no spelling mistakes here, but we know "there days" is how we speak. This project aims at solving this problem by intelligently gathering information from context.
 
