@@ -28,3 +28,11 @@
     Idea: Create word-chain from a given start-word to a given end-word. Constraint is that when creating the chain, only one character can change at a time.
 
     **Link to repo:** https://github.com/tgh499/wordChain_w_shrink_expand
+
+5. Sentimient Analysis from Scratch
+
+    **Idea:** Learn from 1.6 million tweets. Perform sentiment analysis on new text.
+
+    **Accomplishments:** Best performing model in a graduate class.
+
+    **Link to repo:** https://github.com/tgh499/sentiment_analysis/blob/master/sentiment_analysis.py
