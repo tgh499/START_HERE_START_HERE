@@ -7,6 +7,7 @@
     **Dataset:** ISOLET. Contains sororant features.
 
     **Technologies/ Packages:**: PyTorch, NumPy, Pandas, Scipy, SKLearn
+    
     **Concepts:** Deep Learning, CNN, ConvNet, t-SNE, Data Engineering, Feature Engineering, Model Tuning, Dimensionality Reduction, Feature Transformation
     
     **Link to repo:** https://github.com/tgh499/isolet_1D_convolution_updated
